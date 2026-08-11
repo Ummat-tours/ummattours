@@ -1,4 +1,4 @@
-UMMATTOURS — FINAL FIXED WEBSITE
+UMMATTOURS 
 
 Business: UmmatTours
 Call / Text: +91 99786 61541
