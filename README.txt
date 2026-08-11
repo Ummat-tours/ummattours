@@ -1,10 +1,12 @@
-UMMATTOURS — FINAL WEBSITE PACKAGE
+UMMATTOURS — LATEST WEBSITE PACKAGE
 
 Business name: UmmatTours
 Call / Text / WhatsApp: +91 99786 61541
-Address: Shop No. 30, 3rd Floor, Opp. Umma Manavta Office, Old Rupali
+Email: ummattours19@gmail.com
+Address: Shop No. 30, 3rd Floor, Opp. Ummat Manavta Office, Old Rupali
 
-Live website:
-https://ummat-tours.github.io/ummattours/
+The WhatsApp enquiry form uses the direct WhatsApp link:
+https://wa.me/919978661541
 
-The WhatsApp enquiry button and phone contact use +91 99786 61541.
+The email address opens using mailto:
+ummattours19@gmail.com
