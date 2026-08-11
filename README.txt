@@ -1,22 +1,10 @@
-UMMATTOURS — COMPLETE WEBSITE PACKAGE
+UMMATTOURS — FINAL WEBSITE PACKAGE
 
 Business name: UmmatTours
-Phone / WhatsApp: +91 85116 42074
-Address: Near Old Rupali Cinema
+Call / Text / WhatsApp: +91 99786 61541
+Address: Shop No. 30, 3rd Floor, Opp. Umma Manavta Office, Old Rupali
 
 Live website:
 https://ummat-tours.github.io/ummattours/
 
-Files included:
-- index.html — complete website content
-- styles.css — complete design and responsive layout
-- script.js — navigation and WhatsApp enquiry functionality
-- README.txt — setup information
-
-Main sections:
-Home, Popular Tour Packages, Why Choose UmmatTours, About UmmatTours,
-Contact/Enquiry Form, WhatsApp button, and mobile responsive navigation.
-
-GitHub:
-Upload all three website files (index.html, styles.css, script.js) to:
-Ummat-tours/ummattours
+The WhatsApp enquiry button and phone contact use +91 99786 61541.
